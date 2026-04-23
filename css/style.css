@@ -44,4 +44,20 @@ body{
 /* nav */
 nav{
     border-top: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+}
+nav ul{
+    display: flex;
+    padding: 20px 0;
+}
+nav ul li {
+    display: inline-block;
+    padding-right: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+nav ul li a:hover{
+    color: var(--secondary-text-color);
 }
