@@ -1,0 +1,17 @@
+@media (max-width: 600px){
+    .container{
+        max-width: 100%;
+    }
+    .header-top{
+        flex-direction: column;
+        text-align: center;
+    }
+    .header-top ul{
+        margin-top: 0;
+        justify-content: center;
+    }
+    .header-top ul li{
+        padding-left: 0;
+        padding: 10px;
+    }
+}
