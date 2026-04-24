@@ -61,3 +61,22 @@ nav ul li a{
 nav ul li a:hover{
     color: var(--secondary-text-color);
 }
+/* main content styling */
+#block-content-section{
+
+}
+.container{
+  display: flex;
+}
+.block-main-content{
+  display: flex;
+  width: 60%;
+}
+.writing-cotent{
+    margin:6px;
+    padding: 2px;
+    padding-left: 10px;  
+}
+.block-side-content{
+ width: 30%;
+}
