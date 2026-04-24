@@ -71,12 +71,22 @@ nav ul li a:hover{
 .block-main-content{
   display: flex;
   width: 60%;
+    
 }
-.writing-cotent{
-    margin:6px;
+.writing-content{
+  margin:6px;
     padding: 2px;
-    padding-left: 10px;  
+    padding-left: 10px; 
+    text-align: center;
+    padding-top: 15px;
 }
 .block-side-content{
  width: 30%;
+ text-align: center;
 }
+.block-main-content img{
+    padding-top: 20px;
+}
+.block-side-content img{[
+    width: 80%;
+]}
