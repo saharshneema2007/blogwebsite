@@ -27,4 +27,38 @@
         text-align: center;
         padding: 10px 0;
     }
+    /* blog side content */
+    .blog-content{
+        flex-direction: column;
+    }
+    .block-main-content{
+        width: 100%;
+    }
+    .blog-card{
+        flex-direction: column;
+        padding: 10px;
+    }
+    .blog-image{
+        padding: 0;
+    }
+    .blog-image img{
+        width: 100%;
+    }
+    .writing-content{
+        padding-left: 0;
+        margin-bottom: 15px;
+    }
+    .block-side-content{
+        width: 100%;
+    }
+    .footer-content{
+        flex-direction: column;
+    }
+    .footer-first-div{
+        width: 88%;
+        padding: 20px;
+    }
+    .footer-third-div{
+        padding-right: 0px;
+    }
 }
