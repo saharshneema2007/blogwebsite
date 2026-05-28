@@ -63,9 +63,6 @@ nav ul li a:hover{
     color: var(--secondary-text-color);
 }
 /* main content styling */
-#block-content-section{
-
-}
 .blog-content{
     display: flex;
     justify-content: space-between;
@@ -81,8 +78,6 @@ nav ul li a:hover{
 }
 .blog-image{
     padding: 10px;
-}
-.blog-card img{
 }
 .writing-content{
     padding-left: 22px;
@@ -129,9 +124,6 @@ padding-top: 20px;
     padding-left: 10px;
 
 }
-.icon-content li a{
-
-}
 .block-side-content{
  width: 30%;
  margin-top: 30px;
@@ -139,9 +131,6 @@ padding-top: 20px;
 }
 .block-side-content img{
     width: 100%;
-}
-.block-side-content h2{
-   
 }
 .right-content-about{
     background: white;
@@ -216,7 +205,7 @@ padding-top: 20px;
 }
 .right-content-about2{
     background-color: white;
-    margin-top: 20px;
+    margin-top: 30px;
     padding:20px;
 }
 .right-content-about2 h3{
@@ -225,7 +214,6 @@ padding-top: 20px;
 
 .right-content-about2-content{
     display: flex;
-   
     margin-top: 20px;
 }
 .right-content-about2-img{
@@ -267,7 +255,7 @@ padding-top: 20px;
 }
 .right-content-about3{
     background: white;
-    margin-top: 20px;
+    margin-top: 30px;
     padding: 20px;
 }
 .right-content-about3 h3{
@@ -284,7 +272,7 @@ padding-bottom: 15px;
     font-size: 15px;
 }
 .right-content-about4{
-    margin-top: 20px;
+    margin-top: 30px;
     background: white;
     padding: 20px;
 }
@@ -298,7 +286,7 @@ padding-bottom: 15px;
 
 }
 .right-content-about5{
-    margin-top: 20px;
+    margin-top: 30px;
     background-color: white;
     padding: 20px;
 }
@@ -311,7 +299,7 @@ padding-bottom: 15px;
     padding-bottom: 15px;
 }
 .right-content-about6{
-    margin-top: 20px;
+    margin-top: 30px;
     background-color: white;
     padding: 20px;
 }
@@ -328,7 +316,7 @@ padding-bottom: 15px;
 padding-bottom: 15px;
 }
 .right-content-about7{
-    margin-top: 20px;
+    margin-top: 30px;
     background: white;
     padding: 20px;
 }
@@ -343,4 +331,47 @@ padding-bottom: 15px;
 }
 .right-content-about7 h3{
       padding-bottom: 15px;
+}
+.footer-container{
+    background: #212529;
+    margin-top: 30px;
+}
+.footer-content{
+    display: flex;
+    color: white;
+}
+.footer-first-div{
+    padding: 20px;
+    text-align: left;
+   width: 36%;
+    padding-left: 96px;
+}  
+.footer-second-div{
+    padding: 20px;
+}
+.footer-second-div img{
+    width: 45%;
+}
+.footer-image{
+    display: flex;
+    padding-top: 12px;
+}
+.footer-image p{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 300;
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.footer-third-div{
+    padding: 20px;
+    text-align: left;
+    padding-right: 150px;
+}
+#footer-bottom{
+    background: #192027;
+    text-align: center;
+    padding: 32px 0;
+    color: white;
+
 }
